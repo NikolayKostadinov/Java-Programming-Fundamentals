@@ -12,4 +12,4 @@
 * Основи на уеб разработката
 * Базови умения за работа с HTML и CSS
 
-![Certificate]()
+![Certificate](https://github.com/NikolayKostadinov/Java-Programming-Fundamentals/blob/main/Certificate/Programming%20Fundamentals%20with%20Java%20-%20May%202021%20-%20Certificate.jpeg)
